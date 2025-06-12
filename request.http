@@ -1,0 +1,20 @@
+#POST /api/v1/seat HTTP/1.1
+#Host: localhost:8080
+#Content-Type: application/json
+#
+#{
+#  "movieName": "love",
+#  "booked": true
+#}
+
+#GET  /api/v1/optimistic/1
+#Host: localhost:8080
+
+
+#GET  /api/v1/pessimistic/2
+#Host: localhost:8080
+
+
+
+
+
